@@ -1,2 +1,6 @@
 @import url("https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css");
 @import url('https://raw.githubusercontent.com/moistp1ckle/GitHub_Dark/main/source.css');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+body {
+  font-family: 'Roboto Mono', monospace;
+}
